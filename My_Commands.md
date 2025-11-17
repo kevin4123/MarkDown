@@ -1,5 +1,8 @@
 ## Git
 ```bash
+git help <command>				# 帮助
+git <command> -h				
+
 git init
 git config --local --list		# 当前仓库配置
 git config --global --list		# 全局配置（当前用户的所有仓库）
