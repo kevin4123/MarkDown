@@ -10,6 +10,7 @@ git config --system --list		# 系统配置（系统所有用户）
 git status						# Show the working tree status
 git log							# Show commit logs
 git add . && git commit -m "message" && git push
+
 ```
 ## Encode
 ```bash
