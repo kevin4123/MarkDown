@@ -14,3 +14,13 @@ Alt+[:								 		next Suggestion
 Alt+]:										previous Suggestion
 
 ```
+
+## Digital
+```yaml
+Alt+i:										实例化
+
+```
+```bash
+Linter										选择 diagnostician
+
+```
