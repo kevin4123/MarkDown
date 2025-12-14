@@ -31,7 +31,13 @@ opt -full
 ```
 ## Technology mapping
 ```bash
+dfflibmap -liberty <xxx.lib>					technology mapping of flip-flops
+read_liberty -lib <xxx.lib>						使 show 显示正确
+abc -liberty <xxx.lib>							technology mapping to logic
 
-
-
+```
+## Synthesis output
+```bash
+write_verilog netlist.v 						write design to Verilog file
+stat -liberty <xxx.lib> 						print some statistics
 ```
